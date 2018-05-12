@@ -1,0 +1,39 @@
+_repo: In-Northern-Mists--Volume-2-of-2-Arctic-Exploration-in-Early-Times_40634
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Chater, Arthur G.
+    alias: Chater, A. G. (Arthur G.)
+    gutenberg_agent_id: '1190'
+    url: http://www.gutenberg.org/2009/agents/1190
+covers:
+- cover_type: archival
+  image_path: 40634-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nansen, Fridtjof
+    aliases:
+    - Nansen, Frityof
+    - Nansen, Fridyof
+    birthdate: 1861
+    deathdate: 1930
+    gutenberg_agent_id: '34437'
+    url: http://www.gutenberg.org/2009/agents/34437
+    wikipedia: http://en.wikipedia.org/wiki/Fridtjof_Nansen
+description: ''
+gutenberg_issued: '2012-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40634'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration -- Norse'
+- !lcsh 'Discoveries in geography -- Scandinavian'
+- !lcsh 'Arctic regions -- Discovery and exploration -- Scandinavian'
+- !lcc 'G'
+- !lcsh 'Arctic regions -- Discovery and exploration'
+title: 'In Northern Mists: Arctic Exploration in Early Times (Volume 2 of 2)'
+url: http://www.gutenberg.org/ebooks/40634
